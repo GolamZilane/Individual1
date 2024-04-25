@@ -1,1 +1,1 @@
-# Individual1
+This repository is for getting used to github.
